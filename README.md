@@ -15,7 +15,7 @@ This is a template unity project for custom map via mod.io on Tantan's Hangout.
 1. Select Tools> VRMapModExporterWindow
 2. Fill out all of the shit
 3. Select export
-4. You should have had a file explorer window pop up after exportation, open the folder that is highlighted, select all contents in the file/folder the window was opened in and zip it.
+4. You should have had a file explorer window pop up after exportation, open the folder that is highlighted, select all contents in the file/folder and zip it.
 
 ## Upload To Mod.io
 
