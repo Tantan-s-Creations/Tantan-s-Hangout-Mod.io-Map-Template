@@ -1,4 +1,4 @@
-# Tantan's Hangout Mod.io Map Template
+# Tantan's Hangout Mod.io Map Template | Version 1.0.2 (06/26/2026)
 This is a template unity project for custom map via mod.io on Tantan's Hangout.
 
 # Requierments
